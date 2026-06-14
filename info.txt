@@ -1,0 +1,4 @@
+1 => npm create vite@latest
+2 => delete app.css , clear index.css
+3 => npm install tailwindcss @tailwindcss/vite
+4 => import tailwind in index.css
